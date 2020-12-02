@@ -2,7 +2,7 @@
 
 An enhaced and updated version of the Multiface 3 interface.
 
-# December 2, 2020
+# Version 1.4D - December 2, 2020
 
 Started in April 2020, I finally got the expected results and created a fully operational and enhanced clone
 of the Romantic Robot Multiface 3 for ZX Spectrum +3 computers.
