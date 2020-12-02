@@ -11,10 +11,24 @@ allows us to make backup copies of programs or games on tape or disk. If used on
 The main changes compared to the original model are:
 
 - Dual ROM based on a W27E257
-- GAL16V8B
+- PAL16L8 replaced by GAL16V8B
 - RAM 6264 or 62256.
 - RESET button.
 - Decoupling capacitors for all IC's.
 - Horizontal EDGE connector.
 - PCB designed to put inside a printed 3D case.
 - Kempston Joystick interface (can be enabled or disabled)
+
+# Original introduction
+
+MULTIFACE 3 is a multi-purpose interface designed exclusively for the
+SPECTRUM+3. It provides fully automatic and universal back-up/transfer of
+48/128K programs from tape to disk, disk to tape, tape to tape and disk to
+disk. It also incorporates a comprehensive toolkit enabling you to
+study/modify/develop software. MULTIFACE 3 can copy screens to printer in
+hi-res modes and it extends the use of DOS in 48 SPECTRUM mode. MULTIFACE
+is menu-driven, fully error-trapped with on-screen prompts and it largely
+uses a system of one-touch commands. It is very easy to use and does not
+really need a separate written manual. Nonetheless, the following few pages
+should help you to understand every aspect of MULTIFACE 3 operations so that
+you can use it to its fullest possible potential.
