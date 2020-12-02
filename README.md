@@ -1,6 +1,6 @@
 # ZX_Multiface_3_Clone
 
-An enhaced and updated version of the ZX Spectrum Multiface 3 interface.
+An enhanced and updated version of the ZX Spectrum Multiface 3 interface.
 
 # Version 1.4D - December 1, 2020
 
