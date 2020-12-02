@@ -1,5 +1,7 @@
 # ZX_Multiface_3_Clone
 
+An enhaced and updated version of the Multiface 3 interface.
+
 # December 2, 2020
 
 Started in April 2020, I finally got the expected results and created a fully operational and enhanced clone
