@@ -24,6 +24,13 @@ The main changes compared to the original model are:
 - PCB designed to put inside a printed 3D case.
 - Kempston Joystick interface (can be enabled or disabled)
 
+Links:
+
+- https://www.winuaespanol.com/phpbb3/viewtopic.php?p=5981#p5981
+- https://hardware.speccy.org/old.html
+
+Special thanks to José Leandro, Bone and Cacharreo for their help.
+
 # Original introduction
 
 MULTIFACE 3 is a multi-purpose interface designed exclusively for the
