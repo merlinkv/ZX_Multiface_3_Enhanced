@@ -1,6 +1,9 @@
 # ZX_Multiface_3_Clone
 
-An enhanced and updated version of the Romantic Robot Multiface 3 for ZX Spectrum +3 computers.
+# December 2, 2020
+
+Started in April 2020, I finally got the expected results and created a fully operational and enhanced clone
+of the Romantic Robot Multiface 3 for ZX Spectrum +3 computers.
 
 The following project is a modified and improved version of the Multiface 3 interface originally designed by Romantic Robot UK LTD.
 The Spanish company Hard Micro made, back in 1988, a clone of the Multiface 3. Since then there have been no more recreations that I know of.
