@@ -8,6 +8,16 @@
 
 This interface is based on the Multiface 3 clone by Hard Micro and the recreation made by José Leandro Novellón.
 
+# ATTENTION
+
+This project was made for the retro community and not for resale on eBay or other auction sites. So only retro hardware forums and individual people can build this project.
+
+IT'S NOT FOR SALE ON EBAY OR OTHER AUCTION SITES.
+
+# Note
+
+I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
+
 # Version 1.4D - December 1, 2020
 
 Started in April 2020, I finally got the expected results and created a fully operational and enhanced clone
