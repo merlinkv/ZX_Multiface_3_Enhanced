@@ -10,13 +10,21 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 # ATTENTION
 
-This project was made for the retro community and not for resale on eBay or other auction sites. So only retro hardware forums and individual people can build this project.
+This project was made for the retro community and not for commercial purpouses. So only retro hardware forums and individual people can build this project.
 
-IT'S NOT FOR SALE ON EBAY OR OTHER AUCTION SITES.
+ITS SALE ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
 # Note
 
-I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
+I take no responsibiltiy for any damage to any equipment that results from the use of this board.
+
+USE AT YOUR OWN RISK!
+
+# Versions 1.5D & 1.5DE - August 12, 2021
+
+A better routing of the boards has been carried out and a power LED has been added.
+
+Version 1.5DE has a rear expansion port.
 
 # Version 1.4D - December 1, 2020
 
