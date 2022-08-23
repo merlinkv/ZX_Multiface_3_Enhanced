@@ -14,9 +14,7 @@ This project was made for the retro community and not for commercial purposes. S
 
 ITS SALE ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
-# Note
-
-I take no responsibiltiy for any damage to any equipment that results from the use of this board.
+**I take no responsibiltiy for any damage to any equipment that results from the use of this board.**
 
 USE AT YOUR OWN RISK!
 
