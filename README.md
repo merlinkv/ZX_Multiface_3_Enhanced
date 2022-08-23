@@ -50,20 +50,13 @@ The main changes compared to the original model are:
 
 # NOTES:
 
-If you want to use the MF3 with a Gotek you must change the next lines in the **FF.cfg** file
+To **use MF3 with a Gotek** we must change the next lines in the **FF.cfg** file
 
-*Rotational offset of disk after a track change*
-*instant: No rotation during track change*
-*realtime: Emulate rotation of disk while track is changing*
-*Values: instant | realtime*
-*track-change = **realtime** *
-
-*Rotational offset of disk after draining a write to Flash*
-*instant: No rotation*
-*realtime: Disk rotates in real time during drain*
-*eot: Disk rotates to (near) end of track*
-*Values: instant | realtime | eot*
-*write-drain = **realtime** *
+...
+track-change = **realtime**
+...
+write-drain = **realtime**
+... 
 
 # Links:
 
