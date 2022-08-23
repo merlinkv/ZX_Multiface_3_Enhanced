@@ -48,6 +48,21 @@ The main changes compared to the original model are:
 - PCB designed to put inside a printed 3D case.
 - Kempston Joystick interface (can be enabled or disabled)
 
+NOTES: If you want to use the MF3 with a Gotek you must change the next lines in the FF.config file
+
+> # Rotational offset of disk after a track change
+# instant: No rotation during track change
+# realtime: Emulate rotation of disk while track is changing
+# Values: instant | realtime
+track-change = **realtime**
+
+# Rotational offset of disk after draining a write to Flash
+# instant: No rotation
+# realtime: Disk rotates in real time during drain
+# eot: Disk rotates to (near) end of track
+# Values: instant | realtime | eot
+write-drain = **realtime**
+
 Links:
 
 - https://www.winuaespanol.com/phpbb3/viewtopic.php?p=5981#p5981
