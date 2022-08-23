@@ -48,7 +48,7 @@ The main changes compared to the original model are:
 
 # Notes:
 
-To **use MF3 with a Gotek with FlashFloppy firmware** we must change the next lines in the **FF.cfg** file:
+To **use MF3 with a Gotek (FlashFloppy firmware)** we must change the next lines in the **FF.cfg** file:
 
 - track-change = **realtime**
 - write-drain = **realtime**
