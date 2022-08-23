@@ -52,11 +52,8 @@ The main changes compared to the original model are:
 
 To **use MF3 with a Gotek** we must change the next lines in the **FF.cfg** file
 
-...
-track-change = **realtime**
-...
-write-drain = **realtime**
-... 
+- track-change = **realtime**
+- write-drain = **realtime**
 
 # Links:
 
