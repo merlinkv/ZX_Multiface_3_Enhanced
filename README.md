@@ -46,7 +46,7 @@ The main changes compared to the original model are:
 - PCB designed to put inside a printed 3D case.
 - Kempston Joystick interface (can be enabled or disabled)
 
-# NOTES:
+# Notes:
 
 To **use MF3 with a Gotek** we must change the next lines in the **FF.cfg** file
 
