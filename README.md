@@ -53,6 +53,8 @@ To **use MF3 with a Gotek (FlashFloppy firmware)** we must change the next lines
 - track-change = **realtime**
 - write-drain = **realtime**
 
+**All versions, 1.4D, 1.5D & 1.5DE have been tested on my ZX +3 computers and are working perfectly.**
+
 # Links:
 
 - https://www.winuaespanol.com/phpbb3/viewtopic.php?p=5981#p5981
