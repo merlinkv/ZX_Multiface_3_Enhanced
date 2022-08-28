@@ -46,12 +46,11 @@ The main changes compared to the original model are:
 - PCB designed to put inside a printed 3D case.
 - Kempston Joystick interface (can be enabled or disabled)
 
-# Notes:
+# Notes for Gotek (FlashFloppy) users:
 
-To **use MF3 with a Gotek (FlashFloppy firmware)** we must change the next lines in the **FF.cfg** file:
-
-- track-change = **realtime**
-- write-drain = **realtime**
+- To use MF3 with a Gotek (FlashFloppy firmware) we must change the next lines in the **FF.cfg** file:
+  - track-change = **realtime**
+  - write-drain = **realtime**
 
 All versions, **1.4D, 1.5D & 1.5DE** have been tested on my ZX +3 computers and are working perfectly.
 
