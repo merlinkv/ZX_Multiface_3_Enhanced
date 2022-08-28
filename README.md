@@ -53,7 +53,7 @@ The main changes compared to the original model are:
   - write-drain = **realtime**
 - **The Multiface 3 will work correctly (read and write) on real 3" and 3.5" (720k) internal or external drives.**
 - **The Multiface 3 will NOT correctly copy a program from memory to a DSK file on a Gotek unit**. This has been tested on an original Multiface 3 and with my recreation.
-- To use a DSK file with copies made with the Multiface 3, you have to make the copies on a real disk (3" or 3.5" (720k) and then create a DSK image with the program CPCDiskXP (http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm). That image created with CPCDiskXP will work perfectly on a Gotek (read only).
+- To use a DSK file with copies made with the Multiface 3, you have to make the copies on a real disk (3" or 3.5" (720k) and then create a DSK image with a program like CPCDiskXP (http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm). That image created with CPCDiskXP will work perfectly on a Gotek (read only).
 - To format a real 3.5" disk to 720k that the ZX +3 can read (+3DOS), the best is to do it with the CPCDiskXP utility.
 
 # General Notes
