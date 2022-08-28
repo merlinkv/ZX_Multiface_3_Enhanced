@@ -51,9 +51,9 @@ The main changes compared to the original model are:
 - To use MF3 with a Gotek (FlashFloppy firmware) we must change the next lines in the **FF.cfg** file:
   - track-change = **realtime**
   - write-drain = **realtime**
-- The Multiface 3 will work correctly (read and write) on real 3" and 3.5" internal or external drives.
+- **The Multiface 3 will work correctly (read and write) on real 3" and 3.5" internal or external drives.**
 - **The Multiface 3 will NOT correctly copy a program from memory to a DSK file on a Gotek unit**. This has been tested on an original Multiface 3 and with my recreation.
-- To use a DSK file with copies made with the Multiface 3, you have to make the copies on a real disk (3" or 3.5") and then create a DSK image with the program CPCDiskXP (http://www.cpcmania.com /cpcdiskxp/cpcdiskxp.htm). That image created with CPCDiskXP will work perfectly on Gotek (read only).
+- To use a DSK file with copies made with the Multiface 3, you have to make the copies on a real disk (3" or 3.5") and then create a DSK image with the program CPCDiskXP (http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm). That image created with CPCDiskXP will work perfectly on a Gotek (read only).
 
 # General Notes
 
