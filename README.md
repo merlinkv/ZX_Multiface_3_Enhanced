@@ -58,7 +58,8 @@ The main changes compared to the original model are:
 
 # General Notes
 
-All versions, **1.4D, 1.5D & 1.5DE** have been tested on my ZX +3 computers and are working perfectly.
+- All versions, **1.4D, 1.5D & 1.5DE** have been tested on my ZX +3 computers and are working perfectly.
+- Tested and 100% working with +3e ROMs by Garry Lancaster (https://worldofspectrum.org/zxplus3e/)
 
 # Links:
 
