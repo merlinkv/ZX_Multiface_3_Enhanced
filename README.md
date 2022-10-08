@@ -40,6 +40,11 @@ The main changes compared to the original model are:
 - Dual ROM based on a W27E257
 - PAL16L8 replaced by GAL16V8B
 - RAM 6264 or 62256 (best to use HM62256ALP-10).
+- Tested RAM IC's:
+  - HM62256ALP-10
+  - HM6264LP-12
+  - HY62256A LP-70
+  - UT6264CPCL-70LL 
 - RESET button.
 - Decoupling capacitors for all IC's.
 - Horizontal EDGE connector.
