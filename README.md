@@ -12,7 +12,7 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 This project was made for the retro community and not for commercial purposes. So only retro hardware forums and individual people can build this project.
 
-ITS SALE ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
+THE SALE OF ANY PART OF THIS PROJECT ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
 **I take no responsibiltiy for any damage to any equipment that results from the use of this board.**
 
