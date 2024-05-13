@@ -18,6 +18,12 @@ THE SALE OF ANY PART OF THIS PROJECT ON EBAY OR OTHER AUCTION SITES IS PROHIBITE
 
 USE AT YOUR OWN RISK!
 
+# Added version 2.0s (small) - May 12, 2024
+
+   - Redefined Kempston Joystick side (no more GAL22V10D)
+   - Stay only three TH components 27E257 (ROMs), 6264/62256 (RAM) and GAL16V8B (MF3 operative) all other componentes now are SMD/SMT.
+   - PCB size: 73.1 x 86.3 mm
+
 # Versions 1.5D & 1.5DE - August 12, 2021
 
 A better routing of the boards has been carried out and a power LED has been added.
