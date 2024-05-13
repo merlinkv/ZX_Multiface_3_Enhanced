@@ -16,7 +16,7 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 **I take no responsibiltiy for any damage to any equipment that results from the use of this board.**
 
-USE AT YOUR OWN RISK!
+USE IT AT YOUR OWN RISK!
 
 # Added version 2.0s (small) - May 12, 2024
 
