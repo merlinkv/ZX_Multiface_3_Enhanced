@@ -18,7 +18,7 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 USE IT AT YOUR OWN RISK!
 
-# Added version 2.0s (small) - May 12, 2024
+# Added version 2.0s (small) - May 12, 2024 - Beta version, needs to be tested.
 
    - Redefined Kempston Joystick side (no more GAL22V10D)
    - Stay only three TH components 27E257 (ROMs), 6264/62256 (RAM) and GAL16V8B (MF3 operative) all other componentes now are SMD/SMT.
