@@ -18,7 +18,7 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 USE IT AT YOUR OWN RISK!
 
-# August 6, 2024 - Version 2.0s Final
+# Version 2.0s Final - August 6, 2024
 
 Version 2.0s has been tested an working 100%
 
