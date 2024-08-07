@@ -75,6 +75,8 @@ The main changes compared to the original model are:
 
 - https://www.winuaespanol.com/phpbb3/viewtopic.php?p=5981#p5981
 - https://hardware.speccy.org/old.html
+- https://k1.spdns.de/Vintage/Sinclair/82/Peripherals/Multiface%20I%2C%20128%2C%20and%20%2B3%20(Romantic%20Robot)/MF3/Technical%20Information/
+- https://speccy4ever.speccy.org/_RR.htm
 
 Special thanks to José Leandro, Bone and Cacharreo for their help.
 
