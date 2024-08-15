@@ -16,7 +16,7 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 # Exception
 
-  - If you wish to sell small quantities of this interface in a physical or online store, you must first contact the author to request permission. The ban on selling it on eBay or auction sites remains in effect.
+  - If you wish to sell small quantities of this interface in a physical or online store, you must first contact me to request permission. The ban on selling it on eBay or auction sites remains in effect.
 
 **I take no responsibiltiy for any damage to any equipment that results from the use of this board.**
 
