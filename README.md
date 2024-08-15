@@ -14,9 +14,18 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
    - Its commercial sale on eBay, auction sites or shops (online or not) is PROHIBITED.
    - So only retro hardware forums and individual people with non profit intentions can build this project.
 
+# Exception
+
+  - If you wish to sell small quantities of this interface in a physical or online store, you must first contact the author to request permission. The ban on selling it on eBay or auction sites remains in effect.
+
 **I take no responsibiltiy for any damage to any equipment that results from the use of this board.**
 
 USE IT AT YOUR OWN RISK!
+
+# Version 2.0Ds - August 15, 2024
+
+- New version of the board. This is an small form factor PCB but including a rear Edge connector.
+- To maintain the size, the board has been designed as a four layers PCB.
 
 # Version 2.0s Final - August 6, 2024
 
@@ -69,7 +78,7 @@ The main changes compared to the original model are:
 
 # General Notes
 
-- All versions, **1.4D, 1.5D, 1.5DE & 2.0s** have been tested on my ZX +3 computers and are working perfectly even with the +3e ROMs by Garry Lancaster (https://worldofspectrum.org/zxplus3e/)
+- All versions, **1.4D, 1.5D, 1.5DE & 2.0s & 2.0Ds** have been tested on my ZX +3 computers and are working perfectly even with the +3e ROMs by Garry Lancaster (https://worldofspectrum.org/zxplus3e/)
 
 # Links:
 
@@ -79,6 +88,14 @@ The main changes compared to the original model are:
 - https://speccy4ever.speccy.org/_RR.htm
 
 Special thanks to José Leandro, Bone and Cacharreo for their help.
+
+# Contact
+
+You can contact with me at the next forums:
+
+- https://www.winuaespanol.com/phpbb3/index.php
+- https://www.va-de-retro.com/foros/index.php
+- http://retrowiki.es/portal
 
 # Original introduction
 
