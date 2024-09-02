@@ -22,6 +22,10 @@ This interface is based on the Multiface 3 clone by Hard Micro and the recreatio
 
 USE IT AT YOUR OWN RISK!
 
+# Version 2.0s - September 2, 2024
+
+Added case files of version 2.0s (STL - 3D Printer files)
+
 # Version 2.0Ds - August 15, 2024
 
 - New version of the board. This is an small form factor PCB but including a rear Edge connector.
