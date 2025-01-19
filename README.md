@@ -35,7 +35,7 @@ USE IT AT YOUR OWN RISK!
 # Version 2.0s Final - August 6, 2024
 
 - Version 2.0s has been tested an working 100%
-- - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Multiface_3_Enhanced/blob/main/ZX_Multiface_3_2_0s.html)
+- [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Multiface_3_Enhanced/blob/main/ZX_Multiface_3_2_0s.html)
 
 # Added version 2.0s (small) - July 04, 2024 - RC2 version, needs to be tested.
 
