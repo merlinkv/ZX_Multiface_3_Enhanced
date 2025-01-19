@@ -30,6 +30,7 @@ USE IT AT YOUR OWN RISK!
 
 - New version of the board. This is an small form factor PCB but including a rear Edge connector.
 - To maintain the size, the board has been designed as a four layers PCB.
+- [Interactive BOM](https://github.com/merlinkv/ZX_Multiface_3_Enhanced/blob/main/ZX_Multiface_3_2_0Ds.html)
 
 # Version 2.0s Final - August 6, 2024
 
